@@ -8,7 +8,7 @@ Observações:
 
 Não foi possível reproduzir com 100% de precisão o Soctware proposto pois a API não retornava os dados necessários para tal.
 ------------------------------------------------------------------------------------------------------------------------------
-A Filtragem de categoria foi feito comparando os "IDs" dos animais e categorias, pois como conversei com o Alexandre no email a API
+A Filtragem de categoria foi feito comparando os "IDs" dos animais e categorias, pois a API utilizada
 não retorna os dados necessários para fazer uma filtragem mais correta.
 ------------------------------------------------------------------------------------------------------------------------------
 As imagens dos pets estão todas iguais pois todos os pets possuem o mesmo link de imagem na API.
